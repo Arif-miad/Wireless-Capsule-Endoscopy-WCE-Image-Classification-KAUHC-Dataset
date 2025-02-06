@@ -1,0 +1,1 @@
+# Wireless-Capsule-Endoscopy-WCE-Image-Classification-KAUHC-Dataset
